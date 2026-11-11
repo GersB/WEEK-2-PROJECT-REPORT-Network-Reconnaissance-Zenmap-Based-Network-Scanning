@@ -1,4 +1,4 @@
-# WEEK-2-PROJECT-REPORT-Network-Reconnaissance-Zenmap-Based-Network-Scanning
+# WEEK-2-PENETRATION TESTING PROJECT-REPORT ....(Network-Reconnaissance-Zenmap-Based-Network-Scanning)
 
 This combined report presents two Week 2 cybersecurity practical activities. The Electives component documents footprinting and reconnaissance against networkwalks.com using six Kali tools: WHOIS, WhatWeb, nslookup, curl, wafw00f, and dnsrecon. The Essentials component documents local network identification and Zenmap host discovery on the 192.168.0.0/24 LAN.
 
